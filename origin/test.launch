@@ -1,0 +1,8 @@
+<launch>
+    <node>
+        <rosparam command="load" file="test_yaml.yaml" />
+        <rosparam param="rosparam_test_id">0</rosparam>
+        <param name="param_test" value="true"/>
+    </node >
+</launch>
+

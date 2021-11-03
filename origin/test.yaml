@@ -1,0 +1,17 @@
+test:
+  a:
+  - 1
+  - 2
+  - 3
+  - 4
+  b: 1
+  c: true
+  d: false
+  e: 0.1
+  f: -0.1
+  g: This is a YAML file.
+  h:
+    h1: nested
+    h2: -0.1
+  rosparam_test_id: 0
+  param_test: true
